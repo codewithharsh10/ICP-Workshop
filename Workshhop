@@ -1,0 +1,6 @@
+Frontend canister via browser
+    hello_frontend:
+      - http://127.0.0.1:4943/?canisterId=cgpjn-omaaa-aaaaa-qaakq-cai
+      - http://cgpjn-omaaa-aaaaa-qaakq-cai.localhost:4943/
+  Backend canister via Candid interface:
+    hello_backend: http://127.0.0.1:4943/?canisterId=cpmcr-yeaaa-aaaaa-qaala-cai&id=cbopz-duaaa-aaaaa-qaaka-cai
